@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=140&section=header&text=Syed%20Aqil%20Shah&fontSize=46&fontColor=ffffff&fontAlignY=45&desc=Lead%20QA%20Engineer%20%E2%80%A2%20Test%20Automation%20%E2%80%A2%20Security%20Testing&descSize=18&descAlignY=72&descColor=CFF3E6" width="100%" />
+<img src="banner.png" alt="Syed Aqil Shah - Lead QA Engineer, Test Automation and Security Testing" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedaqilshah.netlify.app-1D9E75?style=flat-square&logo=netlify&logoColor=white)](https://syedaqilshah.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-syed--aqil--shah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-aqil-shah)
