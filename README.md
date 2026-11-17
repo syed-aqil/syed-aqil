@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="Syed Aqil Shah - Lead QA Engineer, Test Automation and Security Testing" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:9333EA,100:F97316&height=200&section=header&text=Syed%20Aqil%20Shah&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Lead%20QA%20Engineer%20%E2%80%A2%20Test%20Automation%20%E2%80%A2%20Security%20Testing&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="Syed Aqil Shah - Lead QA Engineer, Test Automation and Security Testing" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=I+find+the+bugs+before+your+users+do;Playwright+%7C+Cypress+%7C+Appium+%7C+Burp+Suite;Automation+%2B+Security+%3D+Release+confidence" alt="Typing intro" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedaqilshah.netlify.app-1D9E75?style=flat-square&logo=netlify&logoColor=white)](https://syedaqilshah.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-syed--aqil--shah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-aqil-shah)
@@ -119,3 +121,5 @@ My work sits where **test automation meets offensive security**: I build Playwri
 [Portfolio](https://syedaqilshah.netlify.app) · [LinkedIn](https://linkedin.com/in/syed-aqil-shah) · [Email](mailto:aqilshah16@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:9333EA,100:4F46E5&height=110&section=footer" width="100%" />
