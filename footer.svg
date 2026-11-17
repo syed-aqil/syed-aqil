@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+  <defs>
+    <clipPath id="c"><rect width="1200" height="90" rx="14"/></clipPath>
+    <style>
+      .a{animation:s 9s linear infinite}
+      .b{animation:s 14s linear infinite reverse}
+      @keyframes s{from{transform:translateX(0)}to{transform:translateX(-1200px)}}
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <g class="b">
+      <path fill="#1E3A8A" fill-opacity="0.85" d="M0 38 C 150 14 300 62 450 38 S 750 14 900 38 S 1050 62 1200 38 L1200 90 L0 90Z"/>
+      <path fill="#1E3A8A" fill-opacity="0.85" transform="translate(1200 0)" d="M0 38 C 150 14 300 62 450 38 S 750 14 900 38 S 1050 62 1200 38 L1200 90 L0 90Z"/>
+    </g>
+    <g class="a">
+      <path fill="#2563EB" fill-opacity="0.55" d="M0 50 C 200 28 400 72 600 50 S 1000 28 1200 50 L1200 90 L0 90Z"/>
+      <path fill="#2563EB" fill-opacity="0.55" transform="translate(1200 0)" d="M0 50 C 200 28 400 72 600 50 S 1000 28 1200 50 L1200 90 L0 90Z"/>
+    </g>
+    <rect y="74" width="1200" height="16" fill="#0E1A33"/>
+  </g>
+</svg>

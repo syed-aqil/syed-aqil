@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070D1C"/>
+      <stop offset="0.55" stop-color="#0E1A33"/>
+      <stop offset="1" stop-color="#1B2E55"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1D4ED8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1E3A8A" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#C7D7F2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#3B82F6" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="280" rx="14"/></clipPath>
+    <style>
+      .tw{animation:tw 3.2s ease-in-out infinite}
+      .tw2{animation:tw 4.4s ease-in-out infinite 1.1s}
+      .tw3{animation:tw 2.6s ease-in-out infinite .6s}
+      @keyframes tw{0%,100%{opacity:.15}50%{opacity:1}}
+      .wave1{animation:slide 9s linear infinite}
+      .wave2{animation:slide 14s linear infinite reverse}
+      @keyframes slide{from{transform:translateX(0)}to{transform:translateX(-1200px)}}
+      .title{opacity:0;animation:rise 1.1s ease-out .2s forwards}
+      .sub{opacity:0;animation:rise 1.1s ease-out .7s forwards}
+      .line{transform-origin:600px 0;transform:scaleX(0);animation:grow 1s ease-out 1.1s forwards}
+      @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes grow{to{transform:scaleX(1)}}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:.9}}
+      .scan{animation:scan 6s linear infinite}
+      @keyframes scan{from{transform:translateX(-300px)}to{transform:translateX(1500px)}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="280" fill="url(#grid)"/>
+    <ellipse cx="600" cy="120" rx="520" ry="150" fill="url(#glow)" class="pulse"/>
+
+    <!-- stars -->
+    <g fill="#BFDBFE">
+      <circle class="tw" cx="90" cy="48" r="1.6"/><circle class="tw2" cx="210" cy="96" r="1.2"/>
+      <circle class="tw3" cx="330" cy="36" r="1.4"/><circle class="tw" cx="1040" cy="52" r="1.6"/>
+      <circle class="tw2" cx="1120" cy="110" r="1.2"/><circle class="tw3" cx="930" cy="30" r="1.3"/>
+      <circle class="tw2" cx="150" cy="150" r="1.1"/><circle class="tw" cx="1160" cy="170" r="1.1"/>
+      <circle class="tw3" cx="470" cy="22" r="1"/><circle class="tw" cx="760" cy="26" r="1.1"/>
+    </g>
+
+    <!-- name + role -->
+    <g class="title">
+      <text x="600" y="122" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="1.5" fill="url(#name)">Syed Aqil Shah</text>
+    </g>
+    <rect class="line" x="540" y="142" width="120" height="3" rx="1.5" fill="#3B82F6"/>
+    <g class="sub">
+      <text x="600" y="180" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="22" font-weight="500" fill="#CBD5E1">Lead QA Engineer  ·  Test Automation  ·  Security Testing</text>
+    </g>
+
+    <!-- animated waves (two copies side by side so the loop is seamless) -->
+    <g class="wave2">
+      <path fill="#1E3A8A" fill-opacity="0.85" d="M0 238 C 150 214 300 262 450 238 S 750 214 900 238 S 1050 262 1200 238 L1200 280 L0 280Z"/>
+      <path fill="#1E3A8A" fill-opacity="0.85" transform="translate(1200 0)" d="M0 238 C 150 214 300 262 450 238 S 750 214 900 238 S 1050 262 1200 238 L1200 280 L0 280Z"/>
+    </g>
+    <g class="wave1">
+      <path fill="#2563EB" fill-opacity="0.55" d="M0 250 C 200 228 400 272 600 250 S 1000 228 1200 250 L1200 280 L0 280Z"/>
+      <path fill="#2563EB" fill-opacity="0.55" transform="translate(1200 0)" d="M0 250 C 200 228 400 272 600 250 S 1000 228 1200 250 L1200 280 L0 280Z"/>
+    </g>
+  </g>
+</svg>
