@@ -32,8 +32,8 @@ My work sits where **test automation meets offensive security**: I build Playwri
 |---|---|---|
 | **Lead QA Engineer** | Zayan Technologies (Canada, remote) | Apr 2026 – Present |
 | **Automation & Security Engineer** | E-Conceptions | May 2025 – Apr 2026 |
-| **QA Engineer · Security Testing · Project Management** | WorkBox SMC Pvt Ltd | Jun 2022 – Jun 2025 |
 | **QA Engineer** (remote) | DevEntia | Jun 2023 – Dec 2023 |
+| **QA Engineer · Security Testing · Project Management** | WorkBox SMC Pvt Ltd | Jun 2022 – Jun 2025 |
 
 <details>
 <summary><b>Highlights</b></summary>
