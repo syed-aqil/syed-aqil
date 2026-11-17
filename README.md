@@ -2,8 +2,6 @@
 
 <img src="header.svg" width="100%" alt="Syed Aqil Shah - Lead QA Engineer, Test Automation and Security Testing" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=I+find+the+bugs+before+your+users+do;Playwright+%7C+Cypress+%7C+Appium+%7C+Burp+Suite;Automation+%2B+Security+%3D+Release+confidence" alt="Typing intro" />
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedaqilshah.netlify.app-1D9E75?style=flat-square&logo=netlify&logoColor=white)](https://syedaqilshah.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-syed--aqil--shah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-aqil-shah)
 [![Email](https://img.shields.io/badge/Email-aqilshah16%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aqilshah16@gmail.com)
