@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,100:1B2A4A&height=190&section=header&text=Syed%20Aqil%20Shah&fontSize=54&fontColor=F8FAFC&fontAlignY=40&desc=Lead%20QA%20Engineer%20%E2%80%A2%20Test%20Automation%20%E2%80%A2%20Security%20Testing&descSize=19&descAlignY=62&animation=fadeIn" width="100%" alt="Syed Aqil Shah - Lead QA Engineer, Test Automation and Security Testing" />
+<img src="header.svg" width="100%" alt="Syed Aqil Shah - Lead QA Engineer, Test Automation and Security Testing" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=I+find+the+bugs+before+your+users+do;Playwright+%7C+Cypress+%7C+Appium+%7C+Burp+Suite;Automation+%2B+Security+%3D+Release+confidence" alt="Typing intro" />
 
@@ -121,3 +121,5 @@ My work sits where **test automation meets offensive security**: I build Playwri
 [Portfolio](https://syedaqilshah.netlify.app) · [LinkedIn](https://linkedin.com/in/syed-aqil-shah) · [Email](mailto:aqilshah16@gmail.com)
 
 </div>
+
+<img src="footer.svg" width="100%" alt="" />
