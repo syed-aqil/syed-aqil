@@ -93,10 +93,10 @@ My work sits where **test automation meets offensive security**: I build Playwri
 | Project | What it shows |
 |---|---|
 | [**Transmit-E2E**](https://github.com/syed-aqil/Transmit-E2E) | Playwright end-to-end suite for a multi-tenant admin portal: Page Object Model, env-based secrets, saved auth sessions and state carried between runs |
-| **Web & API regression suites** *(private, client work)* | Playwright and Cypress suites with API automation, run in Docker and scheduled through GitHub Actions |
-| **Mobile automation** *(private, client work)* | Android app automation with Nightwatch and Appium for healthcare and media apps |
+| [**Jazz_L1_Scripts_With_Notify**](https://github.com/syed-aqil/Jazz_L1_Scripts_With_Notify) | Playwright L1 health checks for 16 telecom subscription journeys: OTP read over IMAP, Docker on GitHub Actions three times a day, Slack alerts with flaky-test detection |
+| [**ApnaClinicNightwatch**](https://github.com/syed-aqil/ApnaClinicNightwatch) | Android app automation with Nightwatch.js + Appium on a real device: OTP login, online consultation and pharmacy flows |
 
-> Most of my work is under NDA in private client repositories. I'm happy to walk through code samples and test strategy in an interview.
+> More of my client work is under NDA in private repositories. I'm happy to walk through it and my test strategy in an interview.
 
 ---
 
