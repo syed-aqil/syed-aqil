@@ -3,7 +3,7 @@
 <img src="header.svg" width="100%" alt="Syed Aqil Shah - Lead QA Engineer, Test Automation and Security Testing" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedaqilshah.netlify.app-1D9E75?style=flat-square&logo=netlify&logoColor=white)](https://syedaqilshah.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-syedaqilshah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedaqilshah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Aqil%20Shah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-aqil-shah-250a60257)
 [![Email](https://img.shields.io/badge/Email-aqilshah16%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aqilshah16@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-555?style=flat-square&logo=googlemaps&logoColor=white)
 
@@ -116,7 +116,7 @@ My work sits where **test automation meets offensive security**: I build Playwri
 <div align="center">
 
 **Let's talk about quality and security.**<br/>
-[Portfolio](https://syedaqilshah.netlify.app) · [LinkedIn](https://www.linkedin.com/in/syedaqilshah) · [Email](mailto:aqilshah16@gmail.com)
+[Portfolio](https://syedaqilshah.netlify.app) · [LinkedIn](https://www.linkedin.com/in/syed-aqil-shah-250a60257) · [Email](mailto:aqilshah16@gmail.com)
 
 </div>
 
